@@ -1,8 +1,8 @@
-Subhash Chandra Pandala - Data Analyst Portfolio
+# Subhash Chandra Pandala - Data Analyst Portfolio
 
 Welcome to my Data Analyst Portfolio showcasing real-world projects focused on Business Intelligence, Healthcare Analytics, and Financial Reporting.
 
-Projects:
+## Projects:
 
 - [Operational KPI Dashboard (Power BI)](#)
 - [Customer Churn Prediction (Python, SQL)](#)
@@ -11,4 +11,3 @@ Projects:
 - [Ad Hoc SQL Reporting for Executives](#)
 
 Feel free to explore my work!
-
