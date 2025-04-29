@@ -27,7 +27,7 @@ The project was created to reflect the kind of performance monitoring done in re
 ## Files Included
 
 - `Operational_KPI_Dashboard.pbix` – Power BI project file
-- (Optional) `dashboard_preview.png` – overview of final visual layout
+- `dashboard_preview.png` – overview of final visual layout
 
 ## Notes
 
