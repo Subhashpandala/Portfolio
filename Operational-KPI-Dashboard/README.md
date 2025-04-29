@@ -6,12 +6,12 @@ This is a personal portfolio project designed to demonstrate business intelligen
 
 This dashboard simulates the operational performance of a retail company and tracks key business metrics including:
 
-- ✅ Total Sales
-- ✅ Total Profit
-- ✅ Average Profit Margin
-- ✅ Total Quantity Sold
-- ✅ Sales by Region
-- ✅ Monthly Sales Trends
+- Total Sales
+- Total Profit
+- Average Profit Margin
+- Total Quantity Sold
+- Sales by Region
+- Monthly Sales Trends
 
 The project was created to reflect the kind of performance monitoring done in real businesses — using clean, readable visuals and calculated DAX measures.
 
