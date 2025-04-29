@@ -1,6 +1,7 @@
 # Operational KPI Dashboard (Power BI)
 ![Dashboard Preview](dashboard_preview.png)
 
+
 This is a personal portfolio project designed to demonstrate business intelligence and dashboard-building skills using Power BI and DAX.
 
 ## Project Summary
