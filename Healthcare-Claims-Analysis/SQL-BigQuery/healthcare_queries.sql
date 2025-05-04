@@ -1,0 +1,2 @@
+-- This file contains SQL queries written and executed in BigQuery.
+-- Actual queries are uploaded separately.
