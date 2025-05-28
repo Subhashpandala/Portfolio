@@ -32,5 +32,6 @@ Each project is built from scratch, explained in my own words, and meant to show
 
 Feel free to click into any folder, read through the process, and check out the code, dashboards, or analysis. Everything here is something I’ve actually built and understood — and I’m updating this regularly as I learn more.
 
-Thanks for stopping by — and if you ever want to talk data, dashboards, or decision-making, you know where to find me.
+Thanks for stopping by — and if you ever want to talk data, dashboards, or decision-making,  
+you can connect with me here: [LinkedIn](https://www.linkedin.com/in/subhash-chandra1)
 
