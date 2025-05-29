@@ -1,65 +1,75 @@
-# Hi there, I’m Subhash Chandra Pandala — Data Analytics & Engineering Portfolio
+# Subhash Chandra Pandala — Data Analytics & Engineering Portfolio
 
-Whether you're a recruiter, a fellow data nerd, or just stumbled across this page — welcome.
+Welcome — I'm Subhash, a data professional with proven experience in transforming raw data into business-ready insights across healthcare, SaaS, marketing, and logistics domains.
 
-This is where I share the projects that have helped me grow as a data professional. Each one represents a challenge I tackled, a skill I sharpened, or a story I tried to tell with data. From dashboards to pipelines, this portfolio is about building, breaking, and learning — always with the goal of turning raw information into something meaningful.
-
----
-
-## What You’ll Find Here
-
-This space is a mix of:
-- Finished projects that solve real-world problems
-- Work-in-progress experiments
-- Hands-on builds across analysis, engineering, and BI
-
-Most projects use tools like **SQL, Python, Power BI, Tableau**, and **BigQuery** — but more important than the tools is how I think through the problem, the business context, and how I communicate results clearly.
+My work includes building clinical dashboards for global trial oversight, streamlining reporting pipelines with cloud-scale data tools, and delivering BI reporting that aligns with executive KPIs. I specialize in SQL, Python, Tableau, Power BI, and cloud platforms like BigQuery, Snowflake, and Azure SQL. This portfolio showcases how I approach real-world data problems with technical rigor, business context, and stakeholder focus.
 
 ---
 
-## Featured Projects
+## About Me
 
-### Healthcare Claims Analysis *(BigQuery + Tableau)*  
-A deep dive into how factors like age, BMI, and smoking influence medical charges. Built in SQL and visualized with Tableau.  
-**TL;DR**: Clean insights, clean visuals — great for anyone into healthcare or data storytelling.  
-*Tools: BigQuery, SQL, Tableau*
-
----
-
-### Operational KPI Dashboard *(Power BI)*  
-A retail performance dashboard with DAX-powered KPIs, slicers, and custom visuals. Designed to give stakeholders quick visibility into key business metrics.  
-*Tools: Power BI, DAX, Excel*
+- 2+ years of experience delivering insights in healthcare analytics and BI reporting
+- Specialize in cloud-native tools: BigQuery, Snowflake, Azure SQL, dbt
+- Blend data engineering and analytics to support decision-making across functions
+- Advocate for clean dashboards, scalable SQL, and modular transformation logic
 
 ---
 
-### Customer Churn Prediction *(Python + SQL)*  
-Modeled customer churn using SQL for prep and logistic regression in Python. A strong intro project into blending analytics with basic predictive modeling.  
-*Tools: SQL, Pandas, scikit-learn*
+## Project Portfolio
+
+### 1. **Patient Readmission Risk Dashboard** *(Healthcare – GCP)*  
+Developed a predictive dashboard to identify high-risk readmissions based on patient vitals, visit history, and comorbidities. Deployed SQL queries in BigQuery and visualized outcomes in Tableau.  
+**Tools:** BigQuery, SQL, Python, Tableau  
+**Cloud:** GCP  
 
 ---
 
-### ETL Pipeline Simulation *(SQL + Python)*  
-Simulated a raw-to-ready data transformation pipeline. Includes filtering, joining, and cleaning stages — the kind of foundational work behind most reporting tools.  
-*Tools: SQL, Python*
+### 2. **Customer Churn Prediction (Pro Version)** *(SaaS – AWS)*  
+Simulated a SaaS company’s churn scenario by modeling customer behavior and usage frequency. Logistic regression was built on feature-engineered data, hosted in Snowflake (AWS).  
+**Tools:** SQL, Pandas, Scikit-learn  
+**Cloud:** AWS (Snowflake, S3)
 
 ---
 
-### Ad Hoc SQL Reporting *(Advanced SQL)*  
-Created reusable, insight-driven queries using CTEs and window functions. Focused on answering business questions fast — no dashboards, just clarity.  
-*Tools: SQL*
+### 3. **Marketing Campaign ROI Tracker** *(B2B Marketing – Azure)*  
+Created a Power BI dashboard to track cost per acquisition, LTV, funnel conversion, and ROAS across multiple campaigns. Integrated with Azure SQL and refreshed via Azure Data Factory.  
+**Tools:** Power BI, DAX, Excel  
+**Cloud:** Azure (SQL, ADF)
 
 ---
 
-## Always Evolving
+### 4. **Supply Chain Performance Dashboard** *(Logistics – Azure)*  
+Built a performance tracker for multi-warehouse operations using inventory KPIs, vendor SLAs, and shipment tracking. Hosted data in Azure SQL and visualized using Power BI.  
+**Tools:** Power BI, SQL, DAX  
+**Cloud:** Azure (SQL, optional Synapse)
 
-I'm always adding new work — including experiments with cloud tools, real-time pipelines, and deeper engineering concepts. I believe in learning by doing, and this repo is where I document that journey.
+---
+
+### 5. **Cloud-Based Data Modeling Pipeline (dbt + SQL)** *(Cross-Domain – GCP + AWS)*  
+Modeled raw business data into clean reporting tables using dbt. Hosted transformations in BigQuery and Snowflake, structured using Git-based version control and modular staging layers.  
+**Tools:** dbt, SQL, Git  
+**Cloud:** GCP (BigQuery), AWS (Snowflake)
+
+---
+
+## 🛠 Tools & Technologies
+
+- **Languages:** Python, SQL (BigQuery, Snowflake, Azure SQL, MySQL, PostgreSQL)  
+- **Analytics & BI:** Tableau, Power BI, Excel, DAX  
+- **Data Modeling:** dbt, Git, dimensional modeling  
+- **Libraries:** Pandas, NumPy, Scikit-learn  
+- **Cloud Platforms:** Google Cloud Platform (BigQuery), AWS (Snowflake, S3), Azure (SQL Database, Data Factory)
 
 ---
 
 ## Let’s Connect
 
-Want to chat data, dashboards, pipelines, or project ideas?  
-Find me here: [LinkedIn](https://www.linkedin.com/in/subhash-chandra1)
+Whether you're hiring, collaborating, or just exploring well-structured data work — feel free to explore the projects or reach out. My goal is always to deliver work that’s technically sound, business-aligned, and production-aware.
 
-Thanks for stopping by 🙌
+Let the work speak.
+
+— Subhash
+
+
+
 
