@@ -67,7 +67,7 @@ Project Documentation:
 
 ## Outcome
 
-This project simulates real-world applications in job market analytics, using automation and structured reporting to explore evolving hiring trends. The approach mirrors internal workforce strategy projects found in analytics consulting and HR insights teams.
+I built this project to collect live job listings from four company websites and turn them into clean, structured Excel files. It shows a complete workflow — from scraping to organizing data — that can support real hiring trend analysis.
 
 
 
