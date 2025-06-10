@@ -1,80 +1,66 @@
-# Healthcare Claims Analysis Dashboard – BigQuery & Tableau Project
+# Healthcare Claims Analysis Dashboard – BigQuery & Tableau
 
-### Overview  
-This is a complete end-to-end **data analysis and visualization project** focused on understanding the factors influencing healthcare insurance charges. The project begins with SQL-based analysis in **Google BigQuery** and ends with an interactive **Tableau dashboard** for stakeholder-friendly insights.
+## Overview  
+This project delivers an end-to-end healthcare cost analysis using a public dataset, with insights deployed through a stakeholder-facing Tableau dashboard. It explores how demographic and lifestyle factors influence insurance charges, simulating analytical workflows used in healthcare and payer organizations.
 
----
-
-### 🖼Dashboard Preview
-
-![Dashboard Preview](dashboard_preview.png)
+The backend analysis was performed in Google BigQuery using advanced SQL logic, and the outputs were visualized using Tableau to support interactive decision-making.
 
 ---
 
-### Project Objectives
-- Analyze cost-driving factors in healthcare charges using demographic variables
-- Explore trends based on smoker status, region, age, BMI, and number of children
-- Build an interactive, filterable dashboard to support business decision-making
+## Objectives  
+- Identify cost-driving variables influencing healthcare charges  
+- Segment trends by smoker status, region, age, BMI, and number of children  
+- Build a clean, filterable Tableau dashboard for business-ready consumption  
 
 ---
 
-### Tools & Technologies
-- **Google BigQuery** – SQL-based analysis and aggregation
-- **Tableau Desktop** – Visualization and dashboard building
-- **Public Healthcare Dataset** – Includes demographics, charges, and risk factors
+## Tools & Technologies  
+- **Google BigQuery** – SQL-based analysis and aggregation  
+- **Tableau Desktop** – Interactive dashboard design  
+- **Public Healthcare Dataset** – Demographics, charges, lifestyle factors  
 
 ---
 
-### Key Analyses Performed (SQL in BigQuery)
-- Average charges by **smoker status**
-- Charges segmented by **region** and **smoker type**
-- **Cross-analysis of age and BMI groups**
-- Trend of charges based on number of **children**
+## Key Analyses (SQL – BigQuery)  
+- Average charges by **smoker status**  
+- Regional cost variation segmented by **smoker type**  
+- Correlation of **age and BMI** with insurance charges  
+- Impact of **number of children** on cost trends  
 
-The cleaned and aggregated data was exported from BigQuery and used as the data source for Tableau.
-
----
-
-### Tableau Dashboard Highlights
-- 🔹 **Smoker vs. Non-Smoker Impact**  
-- 🔹 **Regional Charge Variations**  
-- 🔹 **Age & BMI Effects on Charges**  
-- 🔹 **Impact of Children on Healthcare Costs**
-
-The dashboard includes a **Smoker Status dropdown filter** for interactivity and comparative analysis.
+All cleaned and transformed outputs were exported to Tableau as the final reporting layer.
 
 ---
 
-### Business Relevance
-This project simulates how healthcare providers, insurers, or public health teams might explore cost patterns and **identify high-risk demographics**. The dashboard supports stakeholder-driven analysis, optimized for clarity and real-world insight delivery.
+## Dashboard Features (Tableau)  
+- **Dropdown filter**: Smoker vs Non-Smoker  
+- **Bar Charts**: Charges by Region and Smoker Status  
+- **Scatter Plots**: Age vs BMI grouped by charges  
+- **Category Highlights**: Children impact on healthcare costs  
+
+The dashboard was designed for non-technical business stakeholders and supports real-world health cost evaluations.
 
 ---
 
-### Files Included
-- `dashboard_preview.png` – Snapshot of the final Tableau dashboard
-- BigQuery SQL scripts used for preprocessing and aggregation (in repo)
+## Business Relevance  
+This analysis mirrors real-world use cases in payer analytics, population health management, and actuarial pricing. It demonstrates how SQL-based cloud analytics combined with effective dashboarding can surface high-risk groups and cost leakage areas.
 
 ---
 
-### What I Learned
-- Writing and optimizing SQL queries in BigQuery
-- Preparing cloud-based datasets for visualization
-- Designing interactive Tableau dashboards for real-world business use cases
-- Presenting insights through **data storytelling and visual exploration**
+## Files Included  
+- `dashboard_preview.png` – Tableau dashboard snapshot  
+- `bigquery_sql_scripts.sql` – Query logic for data transformation  
 
 ---
 
-### Use Cases
-This dashboard can be used for:
-- Healthcare cost analysis
-- Risk profiling by demographic
-- Insurance pricing models
-- Stakeholder health utilization reviews
+## Key Outcomes  
+- Deployed **parameterized SQL logic** in BigQuery for cost segmentation  
+- Designed a **filterable Tableau dashboard** tailored to business insights  
+- Communicated cost trends visually for **executive health analytics**  
 
 ---
 
-### Author  
-**Subhash Chandra Pandala**  
-This project is part of my personal Data Analyst portfolio and was completed independently to demonstrate **real-world data problem-solving, cloud-based analytics, and stakeholder-ready dashboard design**.
-
-
+## Use Cases  
+- Healthcare plan cost optimization  
+- Risk segmentation and demographic profiling  
+- Insurance strategy and pricing models  
+- Executive insights for healthcare providers or insurers 
