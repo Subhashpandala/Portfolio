@@ -3,7 +3,7 @@
 
 Welcome — I’m Subhash, a data engineer and analyst with over five years of experience solving complex business problems through scalable data pipelines, predictive models, and interactive dashboards.
 
-I work at the intersection of data engineering and analytics, helping teams turn raw datasets into decision-ready tools. My focus is on building automated workflows, cloud-native reporting infrastructure, and ML-powered insights that align with real-world business KPIs. This portfolio includes select project work that reflects both my technical capabilities and my business context awareness.
+I work across data engineering and analytics to help teams turn raw data into clear, useful insights. I focus on building automated workflows, cloud-based reporting systems, and machine learning solutions that support real business goals. This portfolio highlights projects that show both my technical skills and my understanding of business needs.
 
 ---
 
@@ -20,6 +20,34 @@ I work at the intersection of data engineering and analytics, helping teams turn
 
 ## Featured Projects
 
+### Strategic Job Market Analytics  
+Scraped 500+ job descriptions using Python and analyzed trends across roles, domains, and tools. Organized the results in structured Excel files to highlight high-demand skills and support data career planning.
+
+**Stack:** Python (Selenium, BeautifulSoup), Excel  
+**Domain:** Job Market Research (Capstone Project)  
+**Cloud:** Local
+
+---
+
+### Operational KPI Dashboard  
+Created a Power BI dashboard to track simulated retail sales, profit trends, and regional breakdowns. Designed executive-level metrics and slicers to reflect real-world operational monitoring systems.
+
+**Stack:** Power BI, DAX, Excel  
+**Domain:** Simulated BI  
+**Cloud:** Local
+
+---
+
+
+### Healthcare Claims Analysis  
+Analyzed patient insurance claims by demographic and lifestyle segments using SQL in BigQuery. Built an interactive Tableau dashboard to surface cost disparities and risk trends.
+
+**Stack:** BigQuery, SQL, Tableau  
+**Domain:** Healthcare  
+**Cloud:** GCP
+
+---
+
 ### Patient Readmission Risk Dashboard  
 Developed a predictive dashboard to identify patients at high risk of hospital readmission. Built SQL pipelines in BigQuery, implemented logistic regression using Python, and visualized clinical risk profiles in Tableau.
 
@@ -35,33 +63,6 @@ Simulated a SaaS company scenario to predict churn using behavioral and usage da
 **Stack:** Snowflake, SQL, Pandas, Scikit-learn  
 **Domain:** SaaS (Project)  
 **Cloud:** AWS
-
----
-
-### Operational KPI Dashboard  
-Created a Power BI dashboard to track simulated retail sales, profit trends, and regional breakdowns. Designed executive-level metrics and slicers to reflect real-world operational monitoring systems.
-
-**Stack:** Power BI, DAX, Excel  
-**Domain:** Simulated BI  
-**Cloud:** Local
-
----
-
-### Healthcare Claims Analysis  
-Analyzed patient insurance claims by demographic and lifestyle segments using SQL in BigQuery. Built an interactive Tableau dashboard to surface cost disparities and risk trends.
-
-**Stack:** BigQuery, SQL, Tableau  
-**Domain:** Healthcare  
-**Cloud:** GCP
-
----
-
-### Strategic Job Market Analytics  
-Scraped 500+ job descriptions using Python and analyzed trends across roles, domains, and tools. Created Excel-based dashboards to visualize high-demand skills and inform data education strategies.
-
-**Stack:** Python (Selenium, BeautifulSoup), Excel  
-**Domain:** Job Market Research (Capstone Project)  
-**Cloud:** Local
 
 ---
 
