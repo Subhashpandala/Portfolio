@@ -1,28 +1,26 @@
-# Operational KPI Dashboard – Power BI Project
+# Operational KPI Dashboard – Power BI
 
-### Overview  
-This is a personal portfolio project designed to demonstrate **business intelligence, KPI tracking, and dashboard design** using **Power BI and DAX**. The dashboard simulates the operational performance of a fictional retail company and is optimized for stakeholder consumption and executive decision-making.
-
----
-
-### Project Objectives
-- Visualize key performance indicators (KPIs) across **sales, profit, and quantity**
-- Analyze **regional sales breakdowns** and **monthly sales trends**
-- Create a **professional, responsive dashboard** that reflects real-world reporting needs
+## Overview  
+This portfolio project demonstrates end-to-end business intelligence design using Power BI. It simulates the operational performance of a fictional retail company and focuses on stakeholder-facing KPI dashboards for executive decision-making.
 
 ---
 
-### Tools & Technologies
-- Power BI (Power BI Desktop)
-- DAX (Measures)
-- Excel (Data source)
-- Data Modeling
-- KPI Cards & Trend Visuals
-- Mock Branding (Logo + UI Design)
+## Objectives  
+- Visualize performance across **sales**, **profit**, and **quantity sold**  
+- Track **regional performance** and **monthly sales trends**  
+- Design a clean, responsive layout optimized for stakeholder consumption  
 
 ---
 
-### Metrics Tracked
+## Tools & Technologies  
+- **Power BI Desktop**  
+- **DAX** (calculated measures)  
+- **Excel** (mock data source)  
+- **UI Enhancements**: KPI cards, slicers, custom branding  
+
+---
+
+## Metrics Tracked  
 - Total Sales  
 - Total Profit  
 - Average Profit Margin  
@@ -32,28 +30,27 @@ This is a personal portfolio project designed to demonstrate **business intellig
 
 ---
 
-### Business Relevance
-This project reflects the kind of **reporting and performance monitoring** done by data analysts and business intelligence teams across industries. The dashboard is clean, stakeholder-ready, and built with **executive usability** in mind.
+## Business Relevance  
+This dashboard mirrors the kind of operational reporting commonly used by data analysts and BI teams across industries. Its structure, metric focus, and executive-ready design reflect real-world enterprise use cases.
 
 ---
 
-### Files Included
-- `Operational_KPI_Dashboard.pbix` – Power BI project file  
-- `dashboard_preview.png` – snapshot of final dashboard layout
+## Files Included  
+- `Operational_KPI_Dashboard.pbix` – Power BI file  
+- `dashboard_preview.png` – final layout snapshot  
 
 ---
 
-### What I Learned
-- Building DAX measures for calculated metrics
-- Designing stakeholder-friendly layouts
-- Using slicers and responsive elements for interactivity
-- Presenting insights through **data storytelling**
+## Key Highlights  
+- Built dynamic DAX measures for profitability and sales KPIs  
+- Applied slicers and trend visuals for interactive performance review  
+- Emphasized clean, stakeholder-ready design for maximum usability  
+- Showcased storytelling through data to support high-level decisions  
 
 ---
 
-### Use Cases
-This dashboard can support:
-- Business reviews
-- Sales performance tracking
-- Profitability analysis by region
-- Monthly trend forecasting
+## Use Cases  
+- Monthly sales reviews  
+- Regional profit tracking  
+- Operational health monitoring  
+- Executive performance summaries  
