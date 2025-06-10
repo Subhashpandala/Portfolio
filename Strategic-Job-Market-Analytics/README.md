@@ -62,7 +62,7 @@ Project Documentation:
 ├── Planning.docx                         # Our internal project planning document
 ├── Implementation.docx                   # Step-by-step implementation breakdown
 ├── Report.docx                           # Final project report and insights
-
+```
 ---
 
 ## Outcome
