@@ -44,8 +44,10 @@ This project gave me hands-on experience in dynamic web scraping, data cleaning,
 
 ---
 
+### Project Structure
+
+```text
 Strategic-Job-Market-Analytics/
-'''
 ├── att.py                                # Web scraper for AT&T job listings
 ├── equinox.py                            # Web scraper for Equinox job listings
 ├── ibms.py                               # Web scraper for IBM job listings
