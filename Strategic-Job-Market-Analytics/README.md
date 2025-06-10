@@ -1,6 +1,7 @@
 # Capstone Project – Analyst Job Listing Insights via Web Scraping
+  
+This project was built to analyze job listings across top enterprise companies in Dallas. The goal was to gather live job data from company career portals, understand role requirements, and identify trends in skills, qualifications, and expectations. I designed this workflow using Python and automated scraping techniques to simulate a real-world workforce analytics project.
 
-This project was built to analyze job listings for analyst roles across top tech companies in Dallas. The goal was to gather live job data from multiple company websites, understand role requirements, and identify trends in skills, qualifications, and expectations. I designed this workflow using Python and automated scraping techniques to simulate a real-world workforce analytics project.
 
 ---
 
@@ -20,7 +21,7 @@ This project gave me hands-on experience in dynamic web scraping, data cleaning,
 ---
 
 ## Objectives
-- Collect live job postings for analyst roles across 4 enterprise-level companies
+- Collect live job postings for tech and analyst roles across 4 enterprise-level companies
 - Extract key fields: job title, location, posted date, responsibilities, qualifications
 - Standardize and organize the data for analysis in Excel
 - Understand skill demand patterns and common expectations across firms
