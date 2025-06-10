@@ -35,9 +35,14 @@ This dashboard mirrors the kind of operational reporting commonly used by data a
 
 ---
 
-## Files Included  
-- `Operational_KPI_Dashboard.pbix` – Power BI file  
-- `dashboard_preview.png` – final layout snapshot  
+## 🖼 Dashboard Preview  
+![Operational KPI Dashboard](Operational-KPI-Dashboard.png)
+
+---
+
+## 📁 Files Included  
+- `Operational-KPI-Dashboard.png` – Dashboard snapshot  
+- `Operational_KPI_Dashboard.pbix` – Power BI project file   
 
 ---
 
