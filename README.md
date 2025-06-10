@@ -21,7 +21,7 @@ I work across data engineering and analytics to help teams turn raw data into cl
 ## Featured Projects
 
 ### Strategic Job Market Analytics  
-Scraped 500+ job descriptions using Python and analyzed trends across roles, domains, and tools. Organized the results in structured Excel files to highlight high-demand skills and support data career planning.
+Scraped over 500 job descriptions using Python from four major company portals. Extracted and cleaned data related to job titles, required skills, locations, and qualifications. Delivered structured Excel outputs to analyze hiring trends and skill demand across domains, helping inform data education strategy and workforce alignment.
 
 **Stack:** Python (Selenium, BeautifulSoup), Excel  
 **Domain:** Job Market Research (Capstone Project)  
