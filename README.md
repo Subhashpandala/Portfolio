@@ -1,92 +1,89 @@
-# Subhash Chandra Pandala — Data Analytics & Engineering Portfolio
+# Subhash Chandra Pandala  
+**Data Engineer & Analytics Professional | 5+ Years | Healthcare & Finance Domains**
 
-Welcome — I'm Subhash, a data professional with proven experience in transforming raw data into business-ready insights across healthcare, SaaS, marketing, and logistics domains.
+Welcome — I’m Subhash, a data engineer and analyst with over five years of experience solving complex business problems through scalable data pipelines, predictive models, and interactive dashboards.
 
-My work includes building clinical dashboards for global trial oversight, streamlining reporting pipelines with cloud-scale data tools, and delivering BI reporting that aligns with executive KPIs. I specialize in SQL, Python, Tableau, Power BI, and cloud platforms like BigQuery, Snowflake, and Azure SQL. This portfolio showcases how I approach real-world data problems with technical rigor, business context, and stakeholder focus.
-
----
-
-## About Me
-
-- 2+ years of experience delivering insights in healthcare analytics and BI reporting  
-- Specialize in cloud-native tools: BigQuery, Snowflake, Azure SQL, dbt  
-- Blend data engineering and analytics to support decision-making across functions  
-- Advocate for clean dashboards, scalable SQL, and modular transformation logic  
+I work at the intersection of data engineering and analytics, helping teams turn raw datasets into decision-ready tools. My focus is on building automated workflows, cloud-native reporting infrastructure, and ML-powered insights that align with real-world business KPIs. This portfolio includes select project work that reflects both my technical capabilities and my business context awareness.
 
 ---
 
-## Project Portfolio
+## My Core Strengths
 
-### 1. **Healthcare Claims Analysis Dashboard** *(Healthcare – Public Dataset)*  
-Analyzed insurance charges based on demographics, BMI, and smoking status using SQL in BigQuery. Delivered an interactive Tableau dashboard for exploring cost drivers and risk groups.  
-**Tools:** BigQuery, SQL, Tableau  
-**Cloud:** GCP  
-
----
-
-### 2. **Operational KPI Dashboard** *(Simulated – Retail BI)*  
-Created a dashboard for a fictional retail company to track sales, profit margins, and trends using Power BI and DAX. Simulates real-world executive reporting.  
-**Tools:** Power BI, Excel  
-**Cloud:** Local (non-cloud)  
+- **Languages & Data Logic:** SQL, Python, dbt, DAX  
+- **Cloud Ecosystem:** BigQuery (GCP), Snowflake (AWS), Azure SQL  
+- **Pipeline & Orchestration:** dbt, Airflow (conceptual), Git  
+- **BI & Storytelling:** Tableau, Power BI, Excel  
+- **Modeling & ML:** Logistic Regression, Risk Scoring, Feature Engineering  
+- **Delivery Focus:** KPI dashboards, data quality, cross-functional decision support  
 
 ---
 
-### 3. **Patient Readmission Risk Dashboard** *(Healthcare – GCP)*  
-Developed a predictive dashboard to identify high-risk readmissions based on patient vitals, visit history, and comorbidities. Deployed SQL queries in BigQuery and visualized outcomes in Tableau.  
-**Tools:** BigQuery, SQL, Python, Tableau  
-**Cloud:** GCP  
+## Featured Projects
+
+### Patient Readmission Risk Dashboard  
+Developed a predictive dashboard to identify patients at high risk of hospital readmission. Built SQL pipelines in BigQuery, implemented logistic regression using Python, and visualized clinical risk profiles in Tableau.
+
+**Stack:** BigQuery, SQL, Python, Tableau  
+**Domain:** Healthcare  
+**Cloud:** GCP
 
 ---
 
-### 4. **Customer Churn Prediction (Pro Version)** *(SaaS – AWS)*  
-Simulated a SaaS company’s churn scenario by modeling customer behavior and usage frequency. Logistic regression was built on feature-engineered data, hosted in Snowflake (AWS).  
-**Tools:** SQL, Pandas, Scikit-learn  
-**Cloud:** AWS (Snowflake, S3)  
+### Customer Churn Prediction  
+Simulated a SaaS company scenario to predict churn using behavioral and usage data. Feature-engineered customer metrics, built a logistic regression model in Python, and analyzed outputs via Snowflake.
+
+**Stack:** Snowflake, SQL, Pandas, Scikit-learn  
+**Domain:** SaaS (Project)  
+**Cloud:** AWS
 
 ---
 
-### 5. **Marketing Campaign ROI Tracker** *(B2B Marketing – Azure)*  
-Created a Power BI dashboard to track cost per acquisition, LTV, funnel conversion, and ROAS across multiple campaigns. Integrated with Azure SQL and refreshed via Azure Data Factory.  
-**Tools:** Power BI, DAX, Excel  
-**Cloud:** Azure (SQL, ADF)  
+### Operational KPI Dashboard  
+Created a Power BI dashboard to track simulated retail sales, profit trends, and regional breakdowns. Designed executive-level metrics and slicers to reflect real-world operational monitoring systems.
+
+**Stack:** Power BI, DAX, Excel  
+**Domain:** Simulated BI  
+**Cloud:** Local
 
 ---
 
-### 6. **Supply Chain Performance Dashboard** *(Logistics – Azure)*  
-Built a performance tracker for multi-warehouse operations using inventory KPIs, vendor SLAs, and shipment tracking. Hosted data in Azure SQL and visualized using Power BI.  
-**Tools:** Power BI, SQL, DAX  
-**Cloud:** Azure (SQL, Synapse optional)  
+### Healthcare Claims Analysis  
+Analyzed patient insurance claims by demographic and lifestyle segments using SQL in BigQuery. Built an interactive Tableau dashboard to surface cost disparities and risk trends.
+
+**Stack:** BigQuery, SQL, Tableau  
+**Domain:** Healthcare  
+**Cloud:** GCP
 
 ---
 
-### 7. **Cloud-Based Data Modeling Pipeline (dbt + SQL)** *(Cross-Domain – GCP + AWS)*  
-Modeled raw business data into clean reporting tables using dbt. Hosted transformations in BigQuery and Snowflake, structured using Git-based version control and modular staging layers.  
-**Tools:** dbt, SQL, Git  
-**Cloud:** GCP (BigQuery), AWS (Snowflake)  
+### Strategic Job Market Analytics  
+Scraped 500+ job descriptions using Python and analyzed trends across roles, domains, and tools. Created Excel-based dashboards to visualize high-demand skills and inform data education strategies.
+
+**Stack:** Python (Selenium, BeautifulSoup), Excel  
+**Domain:** Job Market Research (Capstone Project)  
+**Cloud:** Local
 
 ---
 
-## Tools & Technologies
+## Tools at a Glance
 
-- **Languages:** Python, SQL (BigQuery, Snowflake, Azure SQL, MySQL, PostgreSQL)  
-- **Analytics & BI:** Tableau, Power BI, Excel, DAX  
-- **Data Modeling:** dbt, Git, dimensional modeling  
-- **Libraries:** Pandas, NumPy, Scikit-learn  
-- **Cloud Platforms:** Google Cloud Platform (BigQuery), AWS (Snowflake, S3), Azure (SQL, ADF)
+| Category | Tools |
+|---------|-------|
+| **Languages** | SQL, Python |
+| **Data Modeling & Pipelines** | dbt, Git |
+| **Cloud Platforms** | BigQuery (GCP), Snowflake (AWS), Azure SQL |
+| **Analytics & BI** | Power BI, Tableau, Excel, DAX |
+| **ML Libraries** | Pandas, Scikit-learn, NumPy |
+| **Orchestration (Conceptual)** | Airflow |
 
 ---
 
 ## Let’s Connect
 
-Whether you're hiring, collaborating, or exploring structured data work — feel free to connect or reach out.
+If you're building something that demands clean data logic, stakeholder-ready dashboards, or modeling to support decisions — I’d be happy to collaborate.
 
-Linkedin: http://www.linkedin.com/in/subhash-chandra1  
-Email: pandalasubhashchandra@gmail.com
+- **LinkedIn:** www.linkedin.com/in/subhashchandra
+- **Email:** pandalasubhashchandra@gmail.com  
 
-Let the work speak.
-
+Let the work speak.  
 — Subhash
-
-
-
-
