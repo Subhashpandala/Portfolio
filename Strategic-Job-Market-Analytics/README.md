@@ -65,9 +65,7 @@ Project Documentation:
 
 ---
 
----
-
-## 📌 Outcome
+## Outcome
 
 This project simulates real-world applications in job market analytics, using automation and structured reporting to explore evolving hiring trends. The approach mirrors internal workforce strategy projects found in analytics consulting and HR insights teams.
 
