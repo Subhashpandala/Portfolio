@@ -45,7 +45,10 @@ The dashboard was designed for non-technical business stakeholders and supports 
 This analysis mirrors real-world use cases in payer analytics, population health management, and actuarial pricing. It demonstrates how SQL-based cloud analytics combined with effective dashboarding can surface high-risk groups and cost leakage areas.
 
 ---
+## 🖼 Dashboard Preview  
+![Healthcare Claims Dashboard](dashboard_preview.png)
 
+---
 ## Files Included  
 - `dashboard_preview.png` – Tableau dashboard snapshot  
 - `bigquery_sql_scripts.sql` – Query logic for data transformation  
