@@ -2,6 +2,12 @@
 
 This project was built to analyze job listings for analyst roles across top tech companies in Dallas. The goal was to gather live job data from multiple company websites, understand role requirements, and identify trends in skills, qualifications, and expectations. I designed this workflow using Python and automated scraping techniques to simulate a real-world workforce analytics project.
 
+### 📊 Preview Snapshot  
+A structured Excel output from AT&T's career site, showing real-time job listings scraped via Python automation:
+
+![Dashboard Preview](dashboard_preview.png)
+
+
 ## Project Overview
 
 I wrote custom Python scripts using Selenium and BeautifulSoup to scrape job descriptions from four companies — IBM, AT&T, Equinox, and Texas Instruments. Each script was tailored to the structure of the company’s job portal. The data was cleaned and structured into Excel files for further comparison and analysis.
