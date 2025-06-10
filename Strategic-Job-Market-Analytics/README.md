@@ -44,19 +44,20 @@ This project gave me hands-on experience in dynamic web scraping, data cleaning,
 
 ---
 
-## Project Structure
-```bash
-Capstone-Job-Listing-Analytics/
-├── att.py                       # AT&T scraper
-├── equinox.py                   # Equinox scraper
-├── ibms.py                      # IBM scraper
-├── tidi.py                      # Texas Instruments scraper
-├── att_job_details.xlsx         # Final job data for AT&T
-├── Equinox_job_details.xlsx     # Final job data for Equinox
-├── ibm_job_details.xlsx         # Final job data for IBM
-├── Texas_instruments_job_details.xlsx
-├── Group Project Guideline.pdf  # Planning document
-├── Planning.docx                # Project planning notes
-├── Implementation.docx          # Implementation summary
-├── Report.docx                  # Final report & findings
+Strategic-Job-Market-Analytics/
+├── att.py                                # Web scraper for AT&T job listings
+├── equinox.py                            # Web scraper for Equinox job listings
+├── ibms.py                               # Web scraper for IBM job listings
+├── tidi.py                               # Web scraper for Texas Instruments job listings
+├── att_job_details.xlsx                  # Extracted data from AT&T
+├── Equinox_job_details.xlsx              # Extracted data from Equinox
+├── ibm_job_details.xlsx                  # Extracted data from IBM
+├── Texas_instruments_job_details.xlsx    # Extracted data from Texas Instruments
+
+Project Documentation:
+├── Group Project Guideline.pdf           # Faculty-provided initial project guidelines
+├── Planning.docx                         # Our internal project planning document
+├── Implementation.docx                   # Step-by-step implementation breakdown
+├── Report.docx                           # Final project report and insights
+
 
